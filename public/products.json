@@ -1,0 +1,74 @@
+[
+    {
+        "id": "623853b2614ad5aba311fdd1",
+        "index": 0,
+        "price": 799,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1244.jpg?w=1380&t=st=1665375440~exp=1665376040~hmac=a44bb879e78aa3ed001e8a85f39cc2f664fa6c0c6a1c0fba5570a877021c1d7d",
+        "name": "Smart Blue King",
+        "category": "blue"
+    },
+    {
+        "id": "623853b2578e9e6ad1ae0dd5",
+        "index": 1,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1273.jpg?w=1380&t=st=1665375445~exp=1665376045~hmac=984072957856eb1f593c08dd0ca760d440d74db0dc3620cef45e125b0f0ed0f6",
+        "name": "White Ice",
+        "price": 279,
+        "category": "white"
+    },
+    {
+        "id": "623853b21fb149d2ee7b76c7",
+        "index": 2,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1332.jpg?w=1380&t=st=1665375451~exp=1665376051~hmac=5bcea0333e8e5279bf7bb6745aac09e93703c143b276449a222d4cdf466d9ab3",
+        "name": "Red Devil",
+        "price": 78,
+        "category": "red"
+    },
+    {
+        "id": "623853b2e91c8de578c9245e",
+        "index": 3,
+        "picture": "https://img.freepik.com/free-vector/soccer-uniform-concept_52683-43143.jpg?w=1380&t=st=1665375461~exp=1665376061~hmac=e04f0c223de3cdd6b9edcc3188ba78d8ffc3626b331a3cb9689fc2f498505367",
+        "name": "Yellow star",
+        "price": 51,
+        "category": "yellow"
+    },
+    {
+        "id": "623853b2239582e48409ccc6",
+        "index": 4,
+        "price": 34,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1305.jpg?w=1380&t=st=1665375464~exp=1665376064~hmac=44bcba022e6a1401482e0ac34a1daa13a36144297c59149532c213c2bf88e017",
+        "name": "Red Dragon",
+        "category": "red"
+    },
+    {
+        "id": "623853b2cdda0d5bc294f791",
+        "index": 5,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1321.jpg?w=1380&t=st=1665375466~exp=1665376066~hmac=7bb006ac6051b860a2a3060e19dd278c9a36bd691d4559a0aa6620c2cd6c213d",
+        "name": "Green Mount",
+        "price": 141,
+        "category": "green"
+    },
+    {
+        "id": "623853b2736f19fd4eb8d44a",
+        "index": 6,
+        "price": 141,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1338.jpg?w=1380&t=st=1665375471~exp=1665376071~hmac=7e26225d6de40aaa5900082ddd34b650fea8427ee391fc116aae9144ba5e0866",
+        "name": "Black Mamba",
+        "category": "black"
+    },
+    {
+        "id": "623853b2736f19fd4eb8d44b",
+        "index": 7,
+        "price": 35,
+        "picture": "https://img.freepik.com/free-vector/texture-soccer-football-jersey_29096-1271.jpg?w=1380&t=st=1665375422~exp=1665376022~hmac=bb368a551db67e0b69dc7451a9be877b53b8436c05a550591611ab92a340aaae",
+        "name": "Blue Osky",
+        "category": "blue"
+    },
+    {
+        "id": "623853b2736f19fd4eb8d44c",
+        "index": 8,
+        "price": 65,
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1365.jpg?w=1380&t=st=1665375476~exp=1665376076~hmac=7ae752c0c847514d1f85bb154faf4e21f99d98dd625b09bd87dfc15cd514becd",
+        "name": "Red King",
+        "category": "red"
+    }
+]
