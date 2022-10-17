@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Product = ({ product }) => {
+const Product = ({ product, handleAddToCart }) => {
     const { id, name, picture, price, category, details } = product;
     return (
         <div className='product_box my-5'>
@@ -16,7 +16,12 @@ const Product = ({ product }) => {
                     <div className="card-actions justify-between items-center mt-5">
                         <div className="font-bold">Price : ${price}</div>
                         <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
-                            <Link to="/shop" rel="noopener noreferrer" className="px-6 py-2 text-md font-semibold rounded  bg-pink-500 hover:bg-pink-400 text-white ">BUY NOW</Link>
+                            <Link
+                                to="/shop"
+                                rel="noopener noreferrer"
+                                className="px-6 py-2 text-md font-semibold rounded  bg-pink-500 hover:bg-pink-400 text-white"
+                                onClick={() => handleAddToCart(product)}
+                            >BUY NOW</Link>
                         </div>
                     </div>
                 </div>
